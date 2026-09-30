@@ -1,0 +1,4 @@
+def hello():
+    return "Zhanar2007"
+
+print(hello())
